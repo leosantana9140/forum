@@ -1,0 +1,3 @@
+INSERT INTO topic(id, title, message, creation_date, status, course_id, user_id) VALUES (1, 'Dúvida sobre a atualização do Java', 'O que mudou da versão 8 para a 11?', '2022-09-03 17:15:00', 'NOT_ANSWERED', 1, 1);
+INSERT INTO topic(id, title, message, creation_date, status, course_id, user_id) VALUES (2, 'Problema com alinhamento do botão', 'Não estou conseguindo alinhar o botão ao centro da tela.', '2022-09-06 13:30:00', 'NOT_ANSWERED', 2, 2);
+INSERT INTO topic(id, title, message, creation_date, status, course_id, user_id) VALUES (3, 'Dúvida sobre Kotlin', 'O que é uma data class?', '2022-09-07 17:55:00', 'CLOSED', 3, 1);
